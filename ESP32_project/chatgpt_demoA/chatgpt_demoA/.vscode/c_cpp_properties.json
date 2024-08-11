@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "ESP-IDF",
+            "compileCommands": "${config:idf.buildPath}/compile_commands.json",
+            "includePath": [
+                "${config:idf.espIdfPath}/frameworks/**",
+                "${config:idf.espIdfPathWin}/components/**",
+                "${workspaceFolder}/**",
+                "managed_components",
+                "components",
+                "main",
+                "squareline",
+                "spiffs",
+                "factory_nvs"
+            ],
+            "browse": {
+                "path": [
+                    "${config:idf.espIdfPath}/frameworks",
+                    "${config:idf.espIdfPathWin}/components",
+                    "${workspaceFolder}",
+                    "managed_components",
+                    "components",
+                    "main",
+                    "squareline",
+                    "spiffs",
+                    "factory_nvs"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}

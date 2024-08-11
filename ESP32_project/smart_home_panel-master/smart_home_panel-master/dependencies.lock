@@ -1,0 +1,100 @@
+dependencies:
+  chmorgan/esp-audio-player:
+    component_hash: 9f762bbd153b6a49fab1f9181d1dd9467b76cb19c6901a10ec835ae451145354
+    source:
+      type: service
+    version: 1.0.6
+  chmorgan/esp-file-iterator:
+    component_hash: 327091394b9ef5c2cd395a960ab70ae64479e0a8831cbd9925e38895fad93719
+    source:
+      type: service
+    version: 1.0.0
+  chmorgan/esp-libhelix-mp3:
+    component_hash: cbb76089dc2c5749f7b470e2e70aedc44c9da519e04eb9a67d4c7ec275229e53
+    source:
+      type: service
+    version: 1.0.3
+  espressif/button:
+    component_hash: b115c8797f89b883265441aeedf4973a6d49c53bec55159767cdd9cbcd27f328
+    source:
+      type: service
+    version: 3.2.3
+  espressif/cmake_utilities:
+    component_hash: 351350613ceafba240b761b4ea991e0f231ac7a9f59a9ee901f751bddc0bb18f
+    source:
+      type: service
+    version: 0.5.3
+  espressif/esp-dsp:
+    component_hash: 3e7bbd487f1357a1d4944d0c85966d049501ea281b8a4c7f93f7cfedd5b7f23d
+    source:
+      type: service
+    version: 1.4.12
+  espressif/esp-sr:
+    component_hash: 16af25295f531495fe7e36cf2e8c8bb49629be42c38a56f55f4ded825ada0ffc
+    source:
+      type: service
+    version: 1.7.1
+  espressif/esp32_s3_lcd_ev_board:
+    component_hash: 81405b805df74a89277c4b011bd30d56b2f3a6bf1d486b80dd3a8bcd0bfc88a3
+    source:
+      type: service
+    version: 2.1.0
+  espressif/esp_codec_dev:
+    component_hash: 014948481bda426cd46714f297fe1891711246c62bea288863a8cc8cf13ef1f0
+    source:
+      type: service
+    version: 1.2.0
+  espressif/esp_io_expander:
+    component_hash: fbc0de4082fc7c207dc98a93a0ed83d1a929a4ecee83cc567afb406f3ee6d4a6
+    source:
+      type: service
+    version: 1.0.1
+  espressif/esp_io_expander_tca9554:
+    component_hash: e9e49ddb1038c2b54b13c51b5e3e6dbdd10a878959c8ab0e0a7c8206316add61
+    source:
+      type: service
+    version: 1.0.1
+  espressif/esp_lcd_gc9503:
+    component_hash: 6940bf99cd08e7e8eb7ad5efbe88ebf9cc8eeb975fcf1c815d120956d06be940
+    source:
+      type: service
+    version: 3.0.1
+  espressif/esp_lcd_panel_io_additions:
+    component_hash: 213d5c4a3c322a48c9f993d6bc2372206d34af95db34e87a3e02601bdcad7ce8
+    source:
+      type: service
+    version: 1.0.1
+  espressif/esp_lcd_touch:
+    component_hash: 779b4ba2464a3ae85681e4b860caa5fdc35801458c23f3039ee761bae7f442a4
+    source:
+      type: service
+    version: 1.1.2
+  espressif/esp_lcd_touch_ft5x06:
+    component_hash: 97759953d9436a365e9427078c5b04ecce4e6a50f50cf62c68cd6bfa229b812c
+    source:
+      type: service
+    version: 1.0.6
+  espressif/esp_lcd_touch_gt1151:
+    component_hash: b854694702b8687dc0a456017d4a292f8ddfa3cb8ad2faa282fabbb989e6fd26
+    source:
+      type: service
+    version: 1.0.5~1
+  espressif/led_strip:
+    component_hash: fc66f8544851132555bc668475f7b68acd6a211c8075db5ce1951cbfa27dfb88
+    source:
+      storage_url: file:///D:/Electric_Resources/esp-idf-tool/Espressif/registry
+      type: service
+    version: 2.5.4
+  idf:
+    component_hash: null
+    source:
+      type: idf
+    version: 5.1.4
+  lvgl/lvgl:
+    component_hash: d7c1ac037ae6e85d94897f807d6e7ba0946a83e720074fc95a4f6241da9f9f53
+    source:
+      type: service
+    version: 8.4.0
+manifest_hash: f1880b774cf3699956393f3486558126fee6e84bc445723cbfa53aea98dff966
+target: esp32s3
+version: 1.0.0

@@ -1,0 +1,8 @@
+## IDF Component Manager Manifest File
+dependencies:
+#  wolfssl/wolfssl: "^5.7.0"
+  espressif/esp_websocket_client: "^1.2.3"
+  espressif/openai: "1.0.*"
+  espressif/esp-sr: "^1.7.1"
+  chmorgan/esp-audio-player: "1.0.6"
+  chmorgan/esp-file-iterator: "1.0.0"
