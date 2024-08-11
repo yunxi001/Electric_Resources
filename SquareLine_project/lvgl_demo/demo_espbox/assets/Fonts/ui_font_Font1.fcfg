@@ -1,0 +1,16 @@
+{
+  "codename": "Font1",
+  "ttf_path": "/assets/Fonts/GenJyuuGothic-Medium-2.ttf",
+  "bin_path": "/assets/Fonts\\ui_font_Font1.bin",
+  "c_path": "/assets/Fonts\\ui_font_Font1.c",
+  "cfg_path": "/assets/Fonts\\ui_font_Font1.fcfg",
+  "size": 88,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "°湿度",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

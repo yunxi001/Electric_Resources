@@ -1,0 +1,16 @@
+{
+  "codename": "Font2",
+  "ttf_path": "/assets/Fonts/AlimamaFangYuanTiVF-Thin-2.ttf",
+  "bin_path": "/assets/Fonts\\ui_font_Font2.bin",
+  "c_path": "/assets/Fonts\\ui_font_Font2.c",
+  "cfg_path": "/assets/Fonts\\ui_font_Font2.fcfg",
+  "size": 20,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "文峰区多云晴年明天比赛截止，记得交比赛文档！？，、。重大灾难：:地震月日时分秒能听到我是吗觉得朗阴天雷阵小中大暴雨雾霾天霜冻湿度东南西北偏风一二三四×未备忘录五成功错误稍等记录没听清楚失败音量天气您还未记备忘录吃饭时间睡觉告诉我在店半提醒我吃饭写文档调试程序十九八七六五四三二一零特级雾音乐闪√日历请名电打雪我在听好的连接输入霜寒选择密码温湿雷冰雹阵旋龙卷风",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}

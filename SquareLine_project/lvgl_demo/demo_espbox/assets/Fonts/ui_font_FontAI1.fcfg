@@ -1,0 +1,16 @@
+{
+  "codename": "FontAI1",
+  "ttf_path": "/assets/Fonts/AlimamaFangYuanTiVF-Thin-2.ttf",
+  "bin_path": "/assets/Fonts\\ui_font_FontAI1.bin",
+  "c_path": "/assets/Fonts\\ui_font_FontAI1.c",
+  "cfg_path": "/assets/Fonts\\ui_font_FontAI1.fcfg",
+  "size": 55,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
